@@ -11,7 +11,7 @@ cesium 军事标绘插件,支持绘制多边形、曲线、箭头等图形
 生长动画：
 ![image](https://ethan-zf.github.io/cesium-plot-js/examples/attack-arrow-growth.gif)
 
-在线示例： [demo](https://ethan-zf.github.io/cesium-plot-js/examples/index.html)
+在线示例： [demo]([https://github.com/yuzhouzhijia520/cesium-plot-js/examples/index.html)
 
 ### CDN
 
